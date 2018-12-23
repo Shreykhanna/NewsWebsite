@@ -1,0 +1,14 @@
+body{
+  font-size: 40px;
+  font-family: monospace;
+  font-weight: 400;
+}
+header{
+  background: black;
+  width : 100%;
+  display: block;
+}
+.navBar{
+  padding-top: 80px;
+
+}
