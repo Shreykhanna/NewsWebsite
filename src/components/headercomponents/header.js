@@ -7,7 +7,7 @@ class Header extends Component{
   {
     return (
       <header>
-      <div className="navBar">
+      <div className="navBar" class="container">
         <nav>
           <ul>
               <Link to='/homepage'>Latest News</Link>
